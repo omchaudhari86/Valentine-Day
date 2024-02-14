@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.videomsg {
+    margin-top: 0px;
+    transform: rotate(90deg);
+
+}
+
+.anothermsg {
+    margin-top: 500px;
+    text-align: center;
+}
